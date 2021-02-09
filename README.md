@@ -1,8 +1,8 @@
 # SwiftUI-Github-Client
 iOS Github Client built in SwiftUI, MVVM, Combine using Github-API
 
-<a href="url"><img src="https://github.com/MortezaNedaei/SwiftUI-Github-Client/blob/main/art/img1.png" width="400" height="700"></a>
-<a href="url"><img src="https://github.com/MortezaNedaei/SwiftUI-Github-Client/blob/main/art/img2.png" width="435" height="700"></a>
+<a href="url"><img src="https://github.com/MortezaNedaei/SwiftUI-Github-Client/blob/main/art/img1.png" width="350" height="625"></a>
+<a href="url"><img src="https://github.com/MortezaNedaei/SwiftUI-Github-Client/blob/main/art/img2.png" width="380" height="625"></a>
 
 ## Contributing Bug reports
 Please search the existing issues for your bug and create a new one if the issue is not yet tracked!
